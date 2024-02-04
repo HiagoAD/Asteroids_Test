@@ -4,8 +4,10 @@ This repository has the sole porpuse of storing a code challenge, requested by O
 
 The assets in this project are public domain, done by:
 
-mattwalkden.itch.io
-mattwalkden.com
+
+[mattwalkden.itch.io](https://mattwalkden.itch.io/)
+
+[mattwalkden.com](https://www.mattwalkden.com/)
 
 <h1>Instructions</h1>
 
