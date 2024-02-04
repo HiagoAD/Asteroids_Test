@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a9f8b3849dea14094a2f4be8c93ef3, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  asteroids:
+  - prefab: {fileID: 1452082011330883976, guid: 85e51bc21b6acef4caa5cfe77b6a2917, type: 3}
+    position: {x: 3.07, y: 2.58, z: 0}
+    rotation: {x: -0, y: -0, z: 0.56682914, w: 0.82383543}
+    speed: 2
+  - prefab: {fileID: 1452082011330883976, guid: 85e51bc21b6acef4caa5cfe77b6a2917, type: 3}
+    position: {x: -3.76, y: -3.49, z: 0}
+    rotation: {x: -0, y: -0, z: -0.67858034, w: 0.7345262}
+    speed: 2
+  - prefab: {fileID: 9030292786979299157, guid: 1d9951edcfbbeeb49b3e7da1a38e0441, type: 3}
+    position: {x: -2.805, y: 3.079, z: 0}
+    rotation: {x: -0, y: -0, z: 0.3001812, w: 0.95388216}
+    speed: 4
+  - prefab: {fileID: 9030292786979299157, guid: 1d9951edcfbbeeb49b3e7da1a38e0441, type: 3}
+    position: {x: 0.83, y: -0.81, z: 0}
+    rotation: {x: -0, y: -0, z: -0.868072, w: 0.4964383}
+    speed: 4
+  - prefab: {fileID: 5234037027106752975, guid: cfa54a3fc0acfba4eaa1db7b9242dd6d, type: 3}
+    position: {x: 2.24, y: -3.32, z: 0}
+    rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+    speed: 0.5

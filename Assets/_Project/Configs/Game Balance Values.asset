@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b90312c29efdc44bc99b08c81d7a219f, type: 3}
+  m_Name: Game Balance Values
+  m_EditorClassIdentifier: 
+  player:
+    thrustSpeed: 5
+    acceleration: 0.05
+    rotateSpeed: 200
+  shoot:
+    shootsPerSecond: 5
+    recoilForce: 0.2
+  bullet:
+    speed: 10
+    timeToDie: 0.5
+  life:
+    maxAmount: 5
+  saucer:
+    shootsPerSecond: 1
+    maximumHeight: 4
+    speed: 2
+    timeToSpawn: 10
